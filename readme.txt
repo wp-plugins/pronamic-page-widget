@@ -35,8 +35,7 @@ http://codex.wordpress.org/Conditional_Tags
 
 = How to use? =
 
-* Pronamic Page Widget template *
-Example of an template.
+**Pronamic Page Widget template**
 
 	<h2 class="entry-title">
 		<?php the_title(); ?>
@@ -46,7 +45,7 @@ Example of an template.
 		<?php the_excerpt(); ?>
 	</div>
 
-* Adjust the excerpth length *
+**Adjust the excerpth length**
 Example of how you can adjust the excerpt length of the page widgets.
 
 	function pronamic_excerpt_length($length) {
