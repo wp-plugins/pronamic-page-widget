@@ -84,7 +84,7 @@ WordPress installation and then activate the Plugin from Plugins page.
 
 == Links ==
 
-*	[Pronamic](http://pronamic.nl/)
+*	[Pronamic](http://pronamic.eu/)
 *	[Remco Tolsma](http://remcotolsma.nl/)
 *	[Markdown's Syntax Documentation][markdown syntax]
 

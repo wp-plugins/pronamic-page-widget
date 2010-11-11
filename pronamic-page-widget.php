@@ -1,12 +1,12 @@
 <?php
 /*
 Plugin Name: Pronamic Page Widget
-Plugin URI: http://pronamic.nl/wordpress/page-widget/
+Plugin URI: http://pronamic.eu/wordpress/page-widget/
 Description: This plugin makes it simple to add a page to an widget area.
 Author: Pronamic
 Version: 1.0
 Requires at least: 3.0
-Author URI: http://pronamic.nl/
+Author URI: http://pronamic.eu/
 License: GPL
 */
 
