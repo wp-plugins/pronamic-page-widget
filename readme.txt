@@ -5,7 +5,7 @@ Requires at least: 3.0
 Tested up to: 3.0
 Stable tag: 1.0
 
-This plugin makes it easy to add pages as an widget to your sidebars. Developers can easily develope 
+This plugin makes it easy to add pages as an widget to your sidebars. Developers can easily develop
 templates for the different page widget on different sidebars. 
 
 == Description ==
