@@ -3,7 +3,7 @@ Contributors: pronamic, remcotolsma
 Tags: pronamic, page widget, sidebar, page sidebar, widget area, template hierarchy, conditional tags
 Requires at least: 3.0
 Tested up to: 3.0
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 This plugin makes it easy to add pages as an widget to your sidebars. Developers can easily develop
 templates for the different page widget on different sidebars. 
@@ -77,6 +77,9 @@ WordPress installation and then activate the Plugin from Plugins page.
 
 
 == Changelog ==
+
+= 1.0.1 =
+*	Fixed typo in the templates array used for the locate_template() function
 
 = 1.0 =
 *	Initial release

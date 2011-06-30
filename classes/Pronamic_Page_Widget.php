@@ -71,8 +71,8 @@ class Pronamic_Page_Widget extends WP_Widget {
 			$templates = array();
 			$templates[] = 'widget-page-' . $id . '.php';
 			$templates[] = 'widget-page-' . $widget_id . '.php';
-			$templates[] = 'widget-page' . $post->post_name . '.php'; 
-			$templates[] = 'widget-page' . $post->ID . '.php';
+			$templates[] = 'widget-page-' . $post->post_name . '.php'; 
+			$templates[] = 'widget-page-' . $post->ID . '.php';
 			$templates[] = 'widget-page.php';
 
 			$template = locate_template($templates);
