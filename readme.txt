@@ -1,14 +1,19 @@
 === Pronamic Page Widget ===
 Contributors: pronamic, remcotolsma 
-Tags: pronamic, page widget, sidebar, page sidebar, widget area, template hierarchy, conditional tags
+Tags: pronamic, page widget, sidebar, page sidebar, widget area, template hierarchy, conditional tags, deprecated
 Requires at least: 3.0
 Tested up to: 3.0
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
-This plugin makes it easy to add pages as an widget to your sidebars. Developers can easily develop
+Deprecated — This plugin makes it easy to add pages as an widget to your sidebars. Developers can easily develop
 templates for the different page widget on different sidebars. 
 
 == Description ==
+
+> This plugin is deprecated so Pronamic wil no longer support and maintain this plugin.
+>
+> If you want to help maintain the plugin, fork it on [GitHub](https://github.com/pronamic/wp-pronamic-page-widget) and open pull requests.
+
 
 = Template Hierarchy =
 
@@ -77,6 +82,9 @@ WordPress installation and then activate the Plugin from Plugins page.
 
 
 == Changelog ==
+
+= 1.0.2 =
+*	Added deprecated notice.
 
 = 1.0.1 =
 *	Fixed typo in the templates array used for the locate_template() function
